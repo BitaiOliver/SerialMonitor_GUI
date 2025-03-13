@@ -1,0 +1,10 @@
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\bin\Debug\SerialMonitor.exe.config
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\bin\Debug\SerialMonitor.exe
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\bin\Debug\SerialMonitor.pdb
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.csprojResolveAssemblyReference.cache
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.Form1.resources
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.Properties.Resources.resources
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.csproj.GenerateResource.Cache
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.csproj.CoreCompileInputs.cache
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.exe
+E:\Freelanceing\SerialMonitor\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.pdb
